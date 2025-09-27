@@ -1,6 +1,5 @@
 -----------Ultimate Java Explorer-----------
 
-
 Ultimate Java Explorer is a comprehensive Java project designed to demonstrate and explore core Java concepts through practical mini-applications. This project serves as both a learning platform and a showcase of essential Java programming skills, combining multiple functionalities into one cohesive system.
 
 Project Highlights:
