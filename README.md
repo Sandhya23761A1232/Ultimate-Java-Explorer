@@ -5,6 +5,7 @@ Ultimate Java Explorer is a comprehensive Java project designed to demonstrate a
 
 Project Highlights:
 
+
 Mini Virtual Operating System: Simulates basic OS functionalities such as managing processes, files, and system resources, giving hands-on experience with concepts like multithreading, file I/O, and event handling.
 
 Task Manager: Allows users to view and manage running tasks/processes within the mini OS environment. Demonstrates the use of threads, synchronization, and GUI components.
